@@ -1,21 +1,20 @@
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Library/
-3D-File/
+3D-File/Temp/
+3D-File/Library/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
 # ===================================== #
-ExportedObj/
-obj/
+3D-File/ExportedObj/
+3D-File/obj/
 *.svd
 *.userprefs
-/*.csproj
+*.csproj
 *.pidb
 *.suo
-/*.sln
+*.sln
 *.user
 *.unityproj
 *.booproj
